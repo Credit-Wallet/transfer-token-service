@@ -1,0 +1,10 @@
+{
+  "information": "Information",
+  "successfully": "Successfully",
+  "error": "Error",
+  "warning": "Warning",
+  "modal": {
+    "cancel": "Cancel",
+    "save": "Save"
+  }
+}

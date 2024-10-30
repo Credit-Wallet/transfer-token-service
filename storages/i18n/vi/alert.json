@@ -1,0 +1,10 @@
+{
+  "information": "Thông báo",
+  "successfully": "Thành công",
+  "error": "Lỗi",
+  "warning": "Cảnh báo",
+  "modal": {
+    "cancel": "Hủy",
+    "save": "Lưu lại"
+  }
+}

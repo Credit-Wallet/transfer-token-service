@@ -1,0 +1,6 @@
+*
+!.gitignore
+!uploads
+!cache
+!i18n
+!i18n/**

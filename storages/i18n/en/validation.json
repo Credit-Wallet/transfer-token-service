@@ -1,0 +1,17 @@
+{
+  "isString": "The {attribute} must be a string.",
+  "isNotEmpty": "The {attribute} field is required.",
+  "isUnique": "The {attribute} has already been taken.",
+  "maxLength": "The {attribute} must not be greater than {max} characters.",
+  "minLength": "The {attribute} must be at least {min} characters.",
+  "isNumberString": "The {attribute} must be a number.",
+  "isNumber": "The {attribute} must be a number.",
+  "isPhoneNumber": "The {attribute} must be a phone.",
+  "isAlpha": "SHould not Contain Numbers or Special Symbols",
+  "isEmail": "The {attribute} must be a valid email address.",
+  "max": "The {attribute} must not be greater than {max}.",
+  "min": "The {attribute} must be at least {min}.",
+  "isOnlyYear": "The {attribute} must be a valid year.",
+  "isOnlyDate": "The {attribute} must be a valid date.",
+  "isUrl": "The {attribute} must be a valid URL."
+}

@@ -1,0 +1,17 @@
+{
+  "isString": "{attribute} phải là một chuỗi.",
+  "isNotEmpty": "Trường {attribute} là bắt buộc.",
+  "isUnique": "{attribute} đã tồn tại.",
+  "maxLength": "{attribute} không được lớn hơn {max} ký tự.",
+  "minLength": "{attribute} phải có ít nhất {min} ký tự.",
+  "isNumberString": "{attribute} phải là một số.",
+  "isNumber": "{attribute} phải là một số.",
+  "isPhoneNumber": "{attribute} phải là số điện thoại.",
+  "isAlpha": "Không được chứa số hoặc ký tự đặc biệt",
+  "isEmail": "{attribute} phải là một địa chỉ email hợp lệ.",
+  "max": "{attribute} không được lớn hơn {max}.",
+  "min": "{attribute} phải ít nhất {min}.",
+  "isOnlyYear": "{attribute} phải là một năm hợp lệ.",
+  "isOnlyDate": "{attribute} phải là một ngày hợp lệ.",
+  "isUrl": "{attribute} phải là một URL hợp lệ."
+}
